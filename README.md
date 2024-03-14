@@ -98,6 +98,7 @@ Function output:
 
 
 Gradient descent:
+
 ![grd dscnt](https://github.com/vishal21004/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119560110/bb6cc3ac-fd4d-4a47-bf5b-2570939adc43)
 
 
@@ -112,6 +113,7 @@ Linear Regression using Profit Prediction:
 
 
 Profit Prediction for a population of 35000:
+
 ![prft prdctn 1](https://github.com/vishal21004/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119560110/55aac274-ba6b-456c-8ecd-fef50e50c632)
 
 
